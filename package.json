@@ -2,6 +2,7 @@
   "name": "nightmare-theme-vscode",
   "displayName": "Nightmare",
   "description": "A dark color theme for VSCode",
+  "publisher": "OsirisX3R0",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
