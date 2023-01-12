@@ -4,6 +4,10 @@
   "description": "A dark color theme for VSCode",
   "publisher": "OsirisX3R0",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OsirisX3R0/nightmare.git"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
