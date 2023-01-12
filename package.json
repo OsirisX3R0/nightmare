@@ -1,8 +1,8 @@
 {
-  "name": "nightmare",
+  "name": "nightmare-theme-vscode",
   "displayName": "Nightmare",
   "description": "A dark color theme for VSCode",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
