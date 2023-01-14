@@ -792,7 +792,6 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#e4ad57"
       }
     },
@@ -800,7 +799,6 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#d3740e"
       }
     },
@@ -1734,7 +1732,7 @@
       ],
       "settings": {
         "foreground": "#d3740e"
-      }
+      },
     },
     {
       "name": "language operators like '+', '-' etc",
@@ -1807,6 +1805,12 @@
         "foreground": "#bbbbbb"
       }
     },
+    {
+      "scope": "constant.language",
+      "settings": {
+          "foreground": "#c5a5ff"
+      }
+  },
     {
       "scope": [
         "constant.language.symbol.elixir"
