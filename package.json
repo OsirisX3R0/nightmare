@@ -3,10 +3,14 @@
   "displayName": "Nightmare",
   "description": "A dark color theme for VSCode",
   "publisher": "OsirisX3R0",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/OsirisX3R0/nightmare.git"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
   },
   "engines": {
     "vscode": "^1.74.0"
